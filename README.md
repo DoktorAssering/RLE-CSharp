@@ -12,6 +12,6 @@ A simple C# project for string compression and recovery using the Run-Length Enc
 - Single characters remain unnumbered.
 
 **Restoring the string back**:
-`a3b2c3d2e' = `aaabbcccdde`
+`a3b2c3d2e` = `aaabbcccdde`
 
 ---
